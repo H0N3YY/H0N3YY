@@ -13,5 +13,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
 </div>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=H0N3YY&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=H0N3YY&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
