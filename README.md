@@ -1,6 +1,6 @@
 # About Me:
 🌌 I am an open person who likes to learn new things and has many interests at once.<br>✨ I have been learning programming since 2019, drawing my knowledge from books, online courses and other people experienced in this field. <br>🧙‍♂️ Now I even take part in the Academy of Programming, where I am constantly developing my soft and hard skills.
-
+---
 # Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
@@ -12,10 +12,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
 </div>
+---
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=H0N3YY&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=H0N3YY&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=H0N3YY&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=H0N3YY&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
