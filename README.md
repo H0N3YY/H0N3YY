@@ -2,7 +2,7 @@
 🌌 I am an open person who likes to learn new things and has many interests at once.<br>✨ I have been learning programming since 2019, drawing my knowledge from books, online courses and other people experienced in this field. <br>🧙‍♂️ Now I even take part in the Academy of Programming, where I am constantly developing my soft and hard skills.
 
 ---
-#I'm learning
+# I'm learning
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
