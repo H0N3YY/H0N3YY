@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Error 404</p>
+<p align="left"🦉 I gain my knowledge from books, courses and other experienced people. In 2022/23 I took part in the front-end programming academy at Hemmersbach. Where i used/learned :</p>
 
 ###
 
