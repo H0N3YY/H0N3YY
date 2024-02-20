@@ -13,7 +13,7 @@
 
 <br clear="both">
 
-<img align="left" height="190" src="https://preview.redd.it/byy5xkw3msy71.gif?width=498&auto=webp&s=15374af1df5312e58f17c7d698e4f6b9f0174c57"  />
+<img align="left" height="150" src="https://preview.redd.it/byy5xkw3msy71.gif?width=498&auto=webp&s=15374af1df5312e58f17c7d698e4f6b9f0174c57"  />
 
 ###
 
