@@ -1,6 +1,4 @@
 <h3 align="left">Hello<br> I'm Moe, a nerd and artist girl ✫</h3>
-<br clear="both">
-
 <p align="center">.・。.・゜✭・.・✫・゜・。. .・。.・゜✭・.・✫・゜・。. .・。.・゜✭・.・✫・゜・。. .・。.・゜✭・.・✫・゜・。. .</p>
 
 ###
@@ -11,7 +9,7 @@
 
 <br clear="both">
 
-<img align="left" height="100" src="https://preview.redd.it/byy5xkw3msy71.gif?width=498&auto=webp&s=15374af1df5312e58f17c7d698e4f6b9f0174c57"  />
+<img align="left" height="100" src="https://i.pinimg.com/originals/2d/22/af/2d22af06e9302b260903760ef9ebf251.gif"  />
 
 ###
 
