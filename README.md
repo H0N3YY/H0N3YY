@@ -9,7 +9,7 @@
 
 <br clear="both">
 
-<img align="left" height="100" src="https://i.pinimg.com/originals/2d/22/af/2d22af06e9302b260903760ef9ebf251.gif"  />
+<img align="left" height="150" src="https://i.pinimg.com/originals/2d/22/af/2d22af06e9302b260903760ef9ebf251.gif"  />
 
 ###
 
