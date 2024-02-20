@@ -1,5 +1,4 @@
-<h3 align="left">Hello<br> I'm Moe, a nerd and artist girl ✫</h3>
-<p align="center">.・。.・゜✭・.・✫・゜・。. .・。.・゜✭・.・✫・゜・。. .・。.・゜✭・.・✫・゜・。. .・。.・゜✭・.・✫・゜・。. .</p>
+<h3 align="left">Hello I'm Moe, a nerd and artist girl ✫</h3>
 
 ###
 <p align="center">✫ ✫ ✫</p>
