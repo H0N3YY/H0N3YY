@@ -11,11 +11,11 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="https://preview.redd.it/byy5xkw3msy71.gif?width=498&auto=webp&s=15374af1df5312e58f17c7d698e4f6b9f0174c57"  />
+<img align="left" height="100" src="https://preview.redd.it/byy5xkw3msy71.gif?width=498&auto=webp&s=15374af1df5312e58f17c7d698e4f6b9f0174c57"  />
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=H0N3YY&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2&custom_title=%E2%80%A2%20%E1%B4%8D%E1%B4%8F%EA%9C%B1%E1%B4%9B%20%E1%B4%9C%EA%9C%B1%E1%B4%87%E1%B4%85%20%CA%9F%E1%B4%80%C9%B4%C9%A2%E1%B4%9C%E1%B4%80%C9%A2%E1%B4%87%EA%9C%B1%20%E2%80%A2" height="120" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=H0N3YY&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3" height="120" alt="streak graph"  />
 </div>
