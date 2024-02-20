@@ -1,7 +1,4 @@
-<br clear="both">
-
 <h3 align="left">Hello<br> I'm Moe, a nerd and artist girl ✫</h3>
-
 ###
 
 <br clear="both">
