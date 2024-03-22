@@ -2,7 +2,7 @@
 
 ###
 <p align="center">✫ ✫ ✫</p>
-<p align="center">💼 I am currently learning or want to learn<br>PHP • SQL • Figma • Ubuntu • Docker </p>
+<p align="center">💼 I am currently learning or want to learn<br>PHP • SQL • Figma • Ubuntu • Docker• Laravel </p>
 
 ###
 
