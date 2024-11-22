@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="center">✫ ✫ ✫<br><br>💼 I am currently learning or want to learn<br>PHP • SQL • Laravel • Ubuntu • Docker</p>
+<p align="center">✫ ✫ ✫<br><br>💼 I am currently learning or want to learn<br>PHP • SQL • Laravel • Ubuntu • Docker • C# </p>
 
 ###
 
