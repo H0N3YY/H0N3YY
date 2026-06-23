@@ -31,7 +31,7 @@
 
 ###
 
-<p align="center">✫ ✫ ✫<br><br>💻 2022/23 I completed Fronted Academy from Skillplanet<br>where I used and learned:<br>PHP • JavaScript • SQL • Css • Docker • Bootstrap<br>All my projects from that time can be found in the FrontendAcademy repository</p>
+<p align="center">✫ ✫ ✫<br><br>💻 2022/23 I completed Fronted Academy from Skillplanet<br>where I used and learned:<br>PHP • JavaScript • SQL • Css • Docker • C#<br>All my projects from that time can be found in the FrontendAcademy repository</p>
 
 ###
 
