@@ -31,7 +31,7 @@
 
 ###
 
-<p align="center">✫ ✫ ✫<br><br>💻 2022/23 I completed Fronted Academy from Skillplanet<br> At now I learning web backend things and game dev:<br>PHP • JavaScript • SQL • Css • Docker • C#<br></p>
+<p align="center">✫ ✫ ✫<br><br>💻 2022/23 I completed Fronted Academy from Skillplanet<br> At now I learning web backend things and game dev:<br>JavaScript • React • Html • Css • Mui • Bootstrap • Git<br></p>
 
 ###
 
