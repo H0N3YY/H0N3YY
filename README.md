@@ -31,7 +31,7 @@
 
 ###
 
-<p align="center">✫ ✫ ✫<br><br>💻 2022/23 I completed Fronted Academy from Skillplanet<br> At now I learning web backend things and game dev:<br>JavaScript • React • Html • Css • Mui • Bootstrap • Git<br></p>
+<p align="center">✫ ✫ ✫<br><br>💻 2022/23 I completed Fronted Academy from Skillplanet<br>where I used and learned:<br>JavaScript • React • Html • Css • Mui • Bootstrap • GitLab<br>All my projects from that time can be found in the FrontendAcademy repository</p>
 
 ###
 
